@@ -11,7 +11,7 @@ How to build:
    
 How to run binary:
 ------------------
-Assumption: JDK 1.8 is your default jdk  ( How to check ? Go to command prompt and run java -varsion)
+Assumption: JDK 1.8 is your default jdk  ( How to check ? Go to command prompt and run java -version)
 
 Go to captcha-service\bin folder and click on RunCaptchaService.bat
       - this would start captcha-service application and open chrome to  http://localhost:8011/index.html
